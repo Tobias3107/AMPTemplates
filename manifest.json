@@ -1,9 +1,9 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1",
+	"id": "b3afd45a-c8b1-488f-91d2-4b378e320195",
 	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/CubeCoders/AMPTemplates.git",
-	"url": "https://github.com/CubeCoders/AMPTemplates",
+	"origin": "https://github.com/Tobias3107/AMPTemplates.git",
+	"url": "https://github.com/Tobias3107/AMPTemplates",
 	"imagefile": "",
-	"prefix": "",
+	"prefix": "KaTo",
 	"repotype": "AppTemplates"
 }
