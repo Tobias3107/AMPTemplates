@@ -1,9 +1,9 @@
 {
-	"id": "b3afd45a-c8b1-488f-91d2-4b378e320195",
-	"authors": ["CubeCoders Limited", "AMP Community"],
+	"id": "b6a81c9c-bf20-4c2e-b2de-6202b7fda8b5",
+	"authors": ["CubeCoders Limited", "AMP Community", "Tobias Karmann - Made with AMP Config Generator"],
 	"origin": "https://github.com/Tobias3107/AMPTemplates.git",
 	"url": "https://github.com/Tobias3107/AMPTemplates",
 	"imagefile": "",
-	"prefix": "KaTo",
+	"prefix": "KaTo - Made with AMP Config Generator",
 	"repotype": "AppTemplates"
 }
