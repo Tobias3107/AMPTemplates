@@ -1,23 +1,9 @@
 [
     {
         "Protocol": "Both",
-        "Port": "7776",
-        "Name": "Side Game Port - 6",
-        "Description": "Only in us when Main Traffic port is closed",
-        "Ref": "MainGamePort"
-    },
-    {
-        "Protocol": "Both",
         "Port": "7777",
         "Name": "Main Game Port",
         "Description": "Port used for main game traffic",
-        "Ref": "MainGamePort"
-    },
-    {
-        "Protocol": "Both",
-        "Port": "7778",
-        "Name": "Side Game Port - 8",
-        "Description": "Only in us when Main Traffic port is closed",
         "Ref": "MainGamePort"
     }
 ]
